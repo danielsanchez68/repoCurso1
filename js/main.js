@@ -4,3 +4,4 @@ var a = 6
 var b = 7
 var c = 8
 var e = 10
+var d = 9
